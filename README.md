@@ -69,6 +69,8 @@ This is the code for my 2025 Hackathon project. It's a complete IoT solution for
 2.  **Transmitter:** Upload the `base_transceiver.ino` code to the first ESP32.
 3.  **Receiver:** Upload the `receiver_station.ino` code to the second ESP32.
 4.  **Run:** Power on the transmitter, then the receiver. The receiver will connect to WiFi and start sending data to Blynk.
+
+##🔌Hardware Image
 ![hardware](https://github.com/user-attachments/assets/00e62e39-b8cc-4492-967c-fe6889c74a0e)
 
    
